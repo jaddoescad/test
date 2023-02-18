@@ -1,0 +1,13 @@
+.main {
+  width: 80%;
+  margin: 0 auto;
+  &_label{
+    font-size: 20px;
+    font-weight: bolder;
+  };
+  &_input {
+    height: auto;
+    min-height: 200px;
+    border: 1px solid #d9d9d9;
+  };
+};
